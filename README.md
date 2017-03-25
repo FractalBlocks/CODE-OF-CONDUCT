@@ -11,4 +11,4 @@ We are committed to providing a friendly, safe and welcoming environment for all
 - Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one the FractalBlocks team immediately. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
 - Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
-The most important part, we are humans and we are not perfect, if you offend anyone or break some rule. Be humble and offer an apology. Be sure to learn and try not to do this anymore. If you are the offended one, be empathic, accept the apology and be nice :smile:.
+The most important part, we are humans and we are not perfect. If you offend anyone or break some rule, be humble and offer an apology, be sure to learn and try not to do this anymore. If you are the offended one, be empathic, accept the apology and be nice :smile:.
